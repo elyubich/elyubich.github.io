@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -216,17 +205,17 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _research
   - scope:
       path: ""
       type: research
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
 
 
 # Sass/SCSS
