@@ -191,13 +191,14 @@ collections:
 
 # Defaults
 defaults:
-  # _pages
+  # _about
   - scope:
       path: ""
-      type: pages
+      type: about
     values:
       layout: single
       author_profile: false
+      sitemap: false
   # _teaching
   - scope:
       path: ""
@@ -207,6 +208,8 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      sitemap: false
+
   # _research
   - scope:
       path: ""
@@ -216,6 +219,8 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      sitemap: false
+
 
 
 # Sass/SCSS
