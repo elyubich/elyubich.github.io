@@ -16,13 +16,3 @@ Black households have higher residential energy expenditures than white househol
 With Joe Shapiro and Reed Walker. *AEA Papers and Proceedings* (2018)
 
 We estimate within-industry heterogeneity in energy and CO2 productivity for industries spanning the entire US manufacturing sector. We show that heterogeneity in energy and CO2 productivity across plants is enormous and exceeds heterogeneity in most other productivity measures. This has important implications for environmental policies targeting industries rather than plants.
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
