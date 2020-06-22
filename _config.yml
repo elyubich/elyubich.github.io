@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Eva Lyubich"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eva Lyubich"
 description              : &description "PhD Candidate in Economics at UC Berkeley and Graduate Student Researcher at the Energy Institute at Haas"
 url                      : https://elyubich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Eva Lyubich"
-  avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics and Graduate Student Researcher at the Energy Institute at Haas"
-  location         : "UC Berkeley"
+  name             : #"Eva Lyubich"
+  avatar           : #"profile.png"
+  bio              : #"PhD Candidate in Economics and Graduate Student Researcher at the Energy Institute at Haas"
+  location         : #"UC Berkeley"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "elyubich at berkeley dot edu"
+  email            : #"elyubich at berkeley dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "elyubich"
+  github           : #"elyubich"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "evalyubich"
+  twitter          : #"evalyubich"
   vine             :
   weibo            :
   xing             :
