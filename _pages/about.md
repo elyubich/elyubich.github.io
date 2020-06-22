@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-<img src="{{site.url}}/images/bio-photo.png" width="300" align="left" style="display: block; margin-right: 25px;" /> 
-
+<img src="{{site.url}}/images/bio-photo.png" width="300" align="left" style="display: block; margin-right: 30px;" /> 
 
 I am a PhD Candidate in Economics at UC Berkeley and a Graduate Student Researcher at the Energy Institute at Haas. I do research on energy and climate policy, public goods provision, and inequality.
 
