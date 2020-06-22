@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # pages
+  # _pages
   - scope:
       path: ""
       type: pages
