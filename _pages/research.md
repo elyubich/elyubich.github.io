@@ -10,7 +10,7 @@ author_profile: false
 
 Black households have higher residential energy expenditures than white households in the US. This residential energy expenditure gap persists after controlling for income, household size, home-owner status, and city of residence. It decreased but did not disapper between 2010 and 2017, and it is fairly stable in levels across the income distribution, except at the top. Controlling for home type or vintage does not eliminate the gap, but survey evidence on housing characteristics and available appliances is consistent with the gap being driven at least in part by differences in housing stock and related energy efficiency investments.
 
-- Coverage: [Energy Institute Blog Post](https://energyathaas.wordpress.com/2020/06/22/consuming-energy-while-black/), [Axios](https://www.axios.com/persistent-racial-disparities-energy-expenses-fde229f4-f8a0-4542-a594-8705e8d4dfbc.html)
+- Coverage: [Energy Institute](https://energyathaas.wordpress.com/2020/06/22/consuming-energy-while-black/), [Axios](https://www.axios.com/persistent-racial-disparities-energy-expenses-fde229f4-f8a0-4542-a594-8705e8d4dfbc.html)
 
 ## Publications
 
