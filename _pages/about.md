@@ -33,5 +33,9 @@ You can contact me at: elyubich [at] berkeley [dot] edu
     .flex {
       flex-direction: column;
     }
+    .photo {
+    max-width: 100%;
+    }
+
   }
   </style>
