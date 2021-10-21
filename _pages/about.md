@@ -1,7 +1,5 @@
 ---
 permalink: /
-layout: single 
-classes: wide 
 title: ""
 excerpt: ""
 author_profile: false
