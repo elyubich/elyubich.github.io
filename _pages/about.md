@@ -35,6 +35,7 @@ You can contact me at: elyubich [at] berkeley [dot] edu
     }
     .photo {
     max-width: 100%;
+    margin-bottom: 20px;
     }
 
   }
