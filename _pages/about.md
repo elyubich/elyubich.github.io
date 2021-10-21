@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <div class="flex">
-<img src="{{site.url}}/images/bio-photo.png" width="450" align="left" style="display: block; margin-right: 40px;" /> 
+<img src="{{site.url}}/images/bio-photo.png" style="display: block; margin: 0 20px;" /> 
 <div class="text">
 I am a PhD Candidate in Economics at UC Berkeley and a Graduate Student Researcher at the Energy Institute at Haas. I do research on energy and climate policy, public goods provision, and inequality.
-
-
+<br/>
+<br/>
 You can contact me at: elyubich [at] berkeley [dot] edu
 </div>
 </div>
@@ -25,4 +25,9 @@ You can contact me at: elyubich [at] berkeley [dot] edu
     align-items: center;
   }
 
+  @media (max-width: 600px){
+    .flex {
+      flex-direction: column;
+    }
+  }
   </style>
