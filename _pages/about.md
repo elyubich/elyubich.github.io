@@ -17,3 +17,12 @@ I am a PhD Candidate in Economics at UC Berkeley and a Graduate Student Research
 You can contact me at: elyubich [at] berkeley [dot] edu
 </div>
 </div>
+<style>
+  .flex {
+    display: flex;
+    max-width: 900px;
+    margin: auto;
+    align-items: center;
+  }
+
+  </style>
