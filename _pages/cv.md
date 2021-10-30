@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-[cv](/files/Lyubich_CV.pdf)
+[cv](/files/CV.pdf)
