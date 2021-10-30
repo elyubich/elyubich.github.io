@@ -17,7 +17,7 @@ I am a PhD Candidate in Economics at the University of California, Berkeley. I a
 <b>I am on the job market during the 2021-2022 academic year.</b>
 <br/>
 <br/>
-You can contact me at: [elyubich@berkeley.edu](elyubich@berkeley.edu)
+You can contact me at: <a href="mailto:elyubich@berkeley.edu">elyubich@berkeley.edu</a>
 </div>
 </div>
 <style>
