@@ -14,7 +14,7 @@ redirect_from:
 I am a PhD Candidate in Economics at the University of California, Berkeley. I am also a Graduate Student Researcher at the Energy Institute at Haas, a California Policy Lab Graduate Fellow, and a Washington Center for Equitable Growth Grantee. 
 <br/>
 <br/>
-I do research on energy and climate policy, public goods provision, and inequality.
+I do research on energy and climate policy, public goods, and inequality.
 <br/>
 <br/>
 <b>I am on the job market AY 2021-2022.</b>
