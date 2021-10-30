@@ -19,8 +19,7 @@ I do research on energy and climate policy, public goods provision, and inequali
 <br/>
 <b>I am on the job market AY 2021-2022.</b>
 <br/>
-<br/>
-You can contact me at: <a href="mailto:elyubich@berkeley.edu">elyubich@berkeley.edu</a>
+Email: <a href="mailto:elyubich@berkeley.edu">elyubich@berkeley.edu</a>
 </div>
 </div>
 <style>
