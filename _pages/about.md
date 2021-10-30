@@ -14,7 +14,7 @@ redirect_from:
 I am a PhD Candidate in Economics at the University of California, Berkeley. I am also a Graduate Student Researcher at the Energy Institute at Haas, a California Policy Lab Graduate Fellow, and a Washington Center for Equitable Growth Grantee. I do research on energy and climate policy, public goods provision, and inequality.
 <br/>
 <br/>
-*I am on the job market during the 2021-2022 academic year.*
+<i>I am on the job market during the 2021-2022 academic year.</i>
 <br/>
 <br/>
 You can contact me at: elyubich@berkeley.edu
