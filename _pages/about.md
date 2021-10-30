@@ -25,7 +25,7 @@ Email: <a href="mailto:elyubich@berkeley.edu">elyubich@berkeley.edu</a>
 <style>
   .photo {
     display: block;
-    max-width: 45%;
+    max-width: 40%;
     margin: 0 20px;
   }
 
