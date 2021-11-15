@@ -14,7 +14,7 @@ redirect_from:
 I am a PhD Candidate in Economics at the University of California, Berkeley. I am also a Graduate Student Researcher at the Energy Institute at Haas and a California Policy Lab Graduate Fellow. 
 <br/>
 <br/>
-I do research on energy and climate policy, public goods, and inequality. 
+I do research on energy and climate policy, public goods, and inequality. My <a href="https://evalyubich.com/files/Lyubich_UCBerkeley_JMP.pdf">job market paper</a> examines the role of places in household carbon emissions.
 <br/>
 <br/>
 <b>I am on the job market AY 2021-2022.</b>
