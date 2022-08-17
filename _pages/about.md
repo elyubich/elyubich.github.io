@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="flex">
-<img class="photo" src="{{site.url}}/images/bio-photo.jpeg" /> 
+<img class="photo" src="{{site.url}}/images/bio-photo.png" /> 
 <div class="text">
 I am a research economist at the Center for Economic Studies at the US Census Bureau. I received my PhD from the Department of Economics at the University of California, Berkeley in May 2022. During my PhD, I was a Graduate Student Researcher at the Energy Institute at Haas and a California Policy Lab Graduate Fellow. 
 <br/>
