@@ -6,7 +6,7 @@ author_profile: false
 
 ## Working Papers
 
-### [The Role of People vs. Places in Individual Carbon Emissions](/files/Lyubich_UCBerkeley_JMP.pdf) (JMP)
+### [The Role of People vs. Places in Individual Carbon Emissions](/files/Lyubich_UCBerkeley_JMP.pdf) (R&R at AER)
 
 There is substantial spatial heterogeneity in household carbon emissions across the US, and a strong association between emissions and local amenities such as density, transportation infrastructure, and housing characteristics. I estimate what share of this heterogeneity in carbon emissions is attributable to places themselves, and what share reflects individual preferences and taste-based sorting. To do this, I construct a longitudinal panel of residential energy use and commute characteristics for over a million individuals from two decades of administrative Decennial Census and American Community Survey data. I use movers in my data to estimate place effects – the amount by which carbon emissions change for the same individual living in different places – for almost 1,000 labor markets and roughly 60,500 neighborhoods across the US. I find that place effects explain about 15-25% of overall variation in carbon emissions, but more than half of the variation between places. My estimates suggest that decreasing neighborhood-level place effects from one standard deviation above the mean to one standard deviation below the mean would decrease household carbon emissions from residential energy use and commuting by about 40%.
 
