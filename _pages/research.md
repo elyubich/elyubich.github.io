@@ -12,7 +12,7 @@ author_profile: false
 There is substantial spatial heterogeneity in household carbon emissions. I leverage movers in two decades of administrative Decennial Census and American Community Survey data to estimate place effects -- the amount by which carbon emissions change for the same household living in different places -- for almost 1,000 cities and roughly 61,500 neighborhoods across the US. The results indicate that place effects explain 14-23% of overall heterogeneity. Decreasing neighborhood-level place effects from one standard deviation above the mean to one standard deviation below would decrease household carbon emissions from residential energy use and commuting by about 40%.
 
 
-### Transitional Costs and the Decline of Coal: Worker-Level Evidence
+### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
 with Jonathan Colmer, Eleanor Krause, and John Voorheis.
 
 How has the transition away from coal affected coal workers? Using longitudinal administrative records containing the population of W-2 workers in the United States between 2005 and 2021, we evaluate the transitional consequences of the decline of coal. First, we document the characteristics, earnings, and employment trajectories of
