@@ -7,18 +7,15 @@ author_profile: false
 ## Working Papers
 
 ### [The Role of People vs. Places in Individual Carbon Emissions](/files/Lyubich_UCBerkeley_JMP.pdf) 
-*Under Revision for the American Economic Review*
+*Conditionally Accepted at the American Economic Review*
 
-There is substantial spatial heterogeneity in household carbon emissions. I leverage movers in two decades of administrative Decennial Census and American Community Survey data to estimate place effects -- the amount by which carbon emissions change for the same household living in different places -- for almost 1,000 cities and roughly 61,500 neighborhoods across the US. The results indicate that place effects explain 14-23% of overall heterogeneity. Decreasing neighborhood-level place effects from one standard deviation above the mean to one standard deviation below would decrease household carbon emissions from residential energy use and commuting by about 40%.
-
+There is substantial spatial heterogeneity in household carbon emissions. I leverage movers in two decades of administrative Decennial Census and American Community Survey data to estimate place effects -- the amount by which carbon emissions change for the same household living in different places -- for almost 1,000 cities and roughly 61,500 neighborhoods across the US. I estimate that place effects account for 14-23 percent of overall heterogeneity. 
+A change in neighborhood-level place effects from one standard deviation above the mean to one below would reduce household carbon emissions from residential energy and commuting by about 40 percent.
 
 ### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
 with Jonathan Colmer, Eleanor Krause, and John Voorheis.
 
-How has the transition away from coal affected coal workers? Using longitudinal administrative records containing the population of W-2 workers in the United States between 2005 and 2021, we evaluate the transitional consequences of the decline of coal. First, we document the characteristics, earnings, and employment trajectories of
-coal workers. Second, we quantify worker-level responses to the decline of coal. We find that, on average, coal workers most exposed to the decline lost nearly 1.6 years’ worth of cumulative earnings, with both extensive and intensive margins playing important roles. Exposed coal workers spent 0.37 fewer years employed and earned 17 percent less per year employed over the 2012–2019 period compared to observationally similar workers with less exposure to the decline. Losses are driven by years in
-which workers do not work in mining and extraction activities but remain in their local labor markets. We find little evidence that coal workers are less geographically fsmobile than other workers; however, relocating to other labor markets does little to mitigate losses.
-
+The outside options available to workers critically determine the transitional costs of labor demand shocks. Using comprehensive administrative data, we examine the worker-level effects of the decline of coal -- a regionally concentrated labor demand shock that reduced employment by more than 50% between 2011 and 2021. We show that coal workers experienced very large, persistent earnings losses compared to similar workers less connected to coal. In contrast to worker-level analyses of labor demand shocks in more spatially diffuse industries, we show that non-employment is an important margin through which adjustment operates. Workers also earn substantially lower earnings when employed. Moving between industries or regions does little to mitigate losses. Instead, we observe significant increases in SSDI receipt. Our findings suggest that transitional costs are higher in regionally concentrated industries when skills do not easily transfer across sectors.
 
 ### [Building the Prototype Census Environmental Impacts Frame](/files/EIF.pdf)
 with John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scalera, and Jennifer Withrow
@@ -36,7 +33,7 @@ Black households have higher residential energy expenditures than white househol
 ## Work in Progress
 
 ### Nice Work if You Can Get it: The Distribution of Employment and Earnings During the Early Years of the Clean Energy Transition
-with Jonathan Colmer, John Voorheis, and Kyle Addison.
+with Jonathan Colmer, and John Voorheis.
 
 ### Why is Industrial Energy Efficiency Improving?
 with Will Rafey, Joe Shapiro, and Reed Walker.
