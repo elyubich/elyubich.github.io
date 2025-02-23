@@ -22,6 +22,16 @@ with John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scale
 
 The natural environment is central to all aspects of life, but efforts to quantify its influence have been hindered by data availability and measurement constraints. To mitigate some of these challenges, we introduce a new prototype of a microdata infrastructure: the Census Environmental Impacts Frame (EIF). The EIF provides detailed individual-level information on demographics, economic characteristics, and address level histories –- linked to spatially and temporally resolved estimates of environmental conditions for each individual –- for almost every resident in the United States over the past two decades. This linked microdata infrastructure provides a unique platform for advancing our understanding about the distribution of environmental amenities and hazards, when, how, and why exposures have evolved over time, and the consequences of environmental inequality and changing environmental conditions. We describe the construction of the EIF, explore issues of coverage and data quality, document patterns and trends in individual exposure to two correlated but distinct air pollutants as an application of the EIF, and discuss implications and opportunities for future research.
 
+### [The Census Historical Environmental Impacts Frame](/files/historical_eif.pdf)
+With Jennifer Withrow, Kendall Houghton, Surya Menon, Mary Munro, Suvy Qin, and John Voorheis
+
+The Census Bureau’s Environmental Impacts Frame (EIF) is a microdata infrastructure that combines individual-level information on residence, demographics, and economic characteristics with environmental amenities and hazards from 1999 through the present day. To better understand the long-run consequences and intergenerational effects of exposure to a changing environment, we expand the EIF by extending it backward to 1940. The Historical Environmental Impacts Frame (HEIF) combines the Census Bureau’s historical administrative data, publicly available 1940 address information from the 1940 Decennial Census, and historical environmental data. This paper discusses the creation of the HEIF as well as the unique challenges that arise with using the Census Bureau’s historical administrative data. 
+
+### [Nice Work if You Can Get it: The Distribution of Employment and Earnings During the Early Years of the Clean Energy Transition](/files/clean_transition.pdf)
+with Jonathan Colmer, and John Voorheis.
+
+The transition to clean energy represents a fundamental and important shift in economic activity. We present new facts about workers in clean and legacy energy sectors between 2005 and 2019 using linked, administrative employer-employee data for all W-2 workers in the United States. We show that both clean and legacy energy establishments hire a disproportionate share of non-Hispanic White and male workers compared to the working population, that workers rarely move from legacy to clean firms, and that, conditional on education, workers do not earn more in clean firms than in legacy firms. The occupational categories of jobs at clean firms differ notably from occupations at legacy firms and, on average, tend to be performed by workers with higher levels of education. Regional overlap in employment opportunities is not sufficient to facilitate worker transitions from legacy to clean firms. Substantially lower earnings outside of the energy sector combined with low mobility between legacy and clean firms suggests that the costs of the clean transition on workers in legacy fossil fuel sectors may be substantial. At the same time workers moving into clean activities from outside of the energy sector experience significant increases in earnings and greater job stability, suggesting that clean jobs are `good jobs' for those who can access them.
+
 ### [The Race Gap in Residential Energy Expenditures](/files/race_energyGap.pdf)
 
 Black households have higher residential energy expenditures than white households in the US. This residential energy expenditure gap persists after controlling for income, household size, home-owner status, and city of residence. It decreased but did not disappear between 2010 and 2017, and it is fairly stable in levels across the income distribution, except at the top. Controlling for home type or vintage does not eliminate the gap, but survey evidence on housing characteristics and available appliances is consistent with the gap being driven at least in part by differences in housing stock and related energy efficiency investments.
@@ -30,13 +40,15 @@ Black households have higher residential energy expenditures than white househol
 - Discussions: [Texas Public Radio](https://www.tpr.org/post/new-research-shows-black-households-pay-more-home-energy-whites), [Resources Radio](https://www.resourcesmag.org/resources-radio/equity-and-electricity-race-gap-household-energy-use-eva-lyubich/)
 
 
-## Work in Progress
-
-### Nice Work if You Can Get it: The Distribution of Employment and Earnings During the Early Years of the Clean Energy Transition
-with Jonathan Colmer, and John Voorheis.
+## Selected Work in Progress
 
 ### Why is Industrial Energy Efficiency Improving?
 with Will Rafey, Joe Shapiro, and Reed Walker.
+
+### Labor Lock-in in the Fossil Fuel Industry
+With Patrick Paylis and Katherine Wagner
+
+
 
 ## Publications
 
