@@ -4,13 +4,21 @@ permalink: /research/
 author_profile: false
 ---
 
-## Working Papers
+## Publications
 
 ### [The Role of People vs. Places in Individual Carbon Emissions](/files/Lyubich_UCBerkeley_JMP.pdf) 
-*Forthcoming at the American Economic Review (May 2025)*
+*American Economic Review (May 2025)*
 
 There is substantial spatial heterogeneity in household carbon emissions. I leverage movers in two decades of administrative Decennial Census and American Community Survey data to estimate place effects -- the amount by which carbon emissions change for the same household living in different places -- for almost 1,000 cities and roughly 61,500 neighborhoods across the US. I estimate that place effects account for 14-23 percent of overall heterogeneity. 
 A change in neighborhood-level place effects from one standard deviation above the mean to one below would reduce household carbon emissions from residential energy and commuting by about 40 percent.
+
+
+### [Regulating Mismeasured Pollution: Implications of Firm Heterogeneity for Environmental Policy](/files/RegulatingMismeasuredPollution.pdf)
+With Joe Shapiro and Reed Walker. *AEA Papers and Proceedings* (2018)
+
+This paper provides the first estimates of within-industry heterogeneity in energy and CO<sub>2</sub> productivity for the entire U.S. manufacturing sector. We measure energy and CO<sub>2</sub> productivity as output per dollar energy input or per ton CO<sub>2</sub> emitted. Three findings emerge. First, within narrowly defined industries, heterogeneity in energy and CO<sub>2</sub> productivity across plants is enormous. Second, heterogeneity in energy and CO<sub>2</sub> productivity exceeds heterogeneity in most other productivity measures, like labor or total factor productivity. Third, heterogeneity in energy and CO<sub>2</sub> productivity has important implications for environmental policies targeting industries rather than plants, including technology standards and carbon border adjustments.
+
+## Working Papers
 
 ### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
 with Jonathan Colmer, Eleanor Krause, and John Voorheis.
@@ -49,10 +57,3 @@ with Will Rafey, Joe Shapiro, and Reed Walker.
 With Patrick Paylis and Katherine Wagner
 
 
-
-## Publications
-
-### [Regulating Mismeasured Pollution: Implications of Firm Heterogeneity for Environmental Policy](/files/RegulatingMismeasuredPollution.pdf)
-With Joe Shapiro and Reed Walker. *AEA Papers and Proceedings* (2018)
-
-This paper provides the first estimates of within-industry heterogeneity in energy and CO<sub>2</sub> productivity for the entire U.S. manufacturing sector. We measure energy and CO<sub>2</sub> productivity as output per dollar energy input or per ton CO<sub>2</sub> emitted. Three findings emerge. First, within narrowly defined industries, heterogeneity in energy and CO<sub>2</sub> productivity across plants is enormous. Second, heterogeneity in energy and CO<sub>2</sub> productivity exceeds heterogeneity in most other productivity measures, like labor or total factor productivity. Third, heterogeneity in energy and CO<sub>2</sub> productivity has important implications for environmental policies targeting industries rather than plants, including technology standards and carbon border adjustments.
