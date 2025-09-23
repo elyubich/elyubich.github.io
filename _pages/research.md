@@ -7,7 +7,7 @@ author_profile: false
 ## Publications
 
 ### [The Role of People vs. Places in Individual Carbon Emissions](/files/Lyubich_UCBerkeley_JMP.pdf) 
-*American Economic Review (May 2025)*
+*American Economic Review* (May 2025)
 
 There is substantial spatial heterogeneity in household carbon emissions. I leverage movers in two decades of administrative Decennial Census and American Community Survey data to estimate place effects -- the amount by which carbon emissions change for the same household living in different places -- for almost 1,000 cities and roughly 61,500 neighborhoods across the US. I estimate that place effects account for 14-23 percent of overall heterogeneity. 
 A change in neighborhood-level place effects from one standard deviation above the mean to one below would reduce household carbon emissions from residential energy and commuting by about 40 percent.
