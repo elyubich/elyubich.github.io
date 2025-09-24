@@ -50,6 +50,9 @@ The Census Bureau’s Environmental Impacts Frame (EIF) is a microdata infrastru
 ### Why is Industrial Energy Efficiency Improving?
 with Will Rafey, Joe Shapiro, and Reed Walker.
 
+### Place-Based Investment and Neighborhood Choice
+With Max Snyder
+
 ### Labor Lock-in in the Fossil Fuel Industry
 With Patrick Paylis and Katherine Wagner
 
