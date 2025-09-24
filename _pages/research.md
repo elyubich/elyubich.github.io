@@ -14,7 +14,7 @@ A change in neighborhood-level place effects from one standard deviation above t
 
 
 ### [Regulating Mismeasured Pollution: Implications of Firm Heterogeneity for Environmental Policy](/files/RegulatingMismeasuredPollution.pdf)
-With Joe Shapiro and Reed Walker. *AEA Papers and Proceedings* (2018)
+With Joe Shapiro and Reed Walker. *AEA Papers and Proceedings* (March 2018)
 
 This paper provides the first estimates of within-industry heterogeneity in energy and CO<sub>2</sub> productivity for the entire U.S. manufacturing sector. We measure energy and CO<sub>2</sub> productivity as output per dollar energy input or per ton CO<sub>2</sub> emitted. Three findings emerge. First, within narrowly defined industries, heterogeneity in energy and CO<sub>2</sub> productivity across plants is enormous. Second, heterogeneity in energy and CO<sub>2</sub> productivity exceeds heterogeneity in most other productivity measures, like labor or total factor productivity. Third, heterogeneity in energy and CO<sub>2</sub> productivity has important implications for environmental policies targeting industries rather than plants, including technology standards and carbon border adjustments.
 
