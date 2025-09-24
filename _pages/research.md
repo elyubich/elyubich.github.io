@@ -21,7 +21,7 @@ This paper provides the first estimates of within-industry heterogeneity in ener
 ## Working Papers
 
 ### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
-with Jonathan Colmer, Eleanor Krause, and John Voorheis (Last Updated: September 2025)
+with Jonathan Colmer, Eleanor Krause, and John Voorheis (September 2025)
 
 Workers’ outside options play a central role in determining the transitional costs of labor demand shocks. Using comprehensive administrative data, we examine the worker-level effects of the decline of coal -- a regionally concentrated labor demand
 shock that reduced coal sector employment by more than 50 percent between 2011 and 2021. We show that coal workers experienced large and persistent earnings losses compared to similar workers with less or no connection to coal. Unlike worker-level
@@ -29,9 +29,15 @@ analyses of labor demand shocks in more spatially diffuse industries, we find th
 mobility does little to mitigate these losses, while SSDI receipt increases substantially. Our findings suggest that transitional costs are higher in geographically concentrated industries when skills do not easily transfer across sectors.
 
 ### [The Census Environmental Impacts Frame](/files/EIF.pdf)
-with John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scalera, and Jennifer Withrow (Revise and Resubmit at *Review of Environmental Economics and Policy*)
+with John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scalera, and Jennifer Withrow (July 2025; Revise and Resubmit at *Review of Environmental Economics and Policy*)
 
 The natural environment is central to all aspects of life, but efforts to quantify its influence have been hindered by data availability and measurement constraints. To mitigate some of these challenges, we introduce a new prototype of a microdata infrastructure: the Census Environmental Impacts Frame (EIF). The EIF provides detailed individual-level information on demographics, economic characteristics, and address level histories –- linked to spatially and temporally resolved estimates of environmental conditions for each individual –- for almost every resident in the United States over the past two decades. This linked microdata infrastructure provides a unique platform for advancing our understanding about the distribution of environmental amenities and hazards, when, how, and why exposures have evolved over time, and the consequences of environmental inequality and changing environmental conditions. We describe the construction of the EIF, explore issues of coverage and data quality, document patterns and trends in individual exposure to two correlated but distinct air pollutants as an application of the EIF, and discuss implications and opportunities for future research.
+
+
+### [The Privacy-Protected Gridded Environmental Impacts Frame](/files/Gridded_EIF.pdf)
+With John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scalera, and Jennifer Withrow (July 2025)
+
+This paper introduces the Gridded Environmental Impacts Frame (Gridded EIF), a novel privacy-protected dataset derived from the U.S. Census Bureau’s confidential Environmental Impacts Frame (EIF) microdata infrastructure. The EIF combines comprehensive administrative records and survey data on the U.S. population with high-resolution geospatial information on environmental conditions. While access to the EIF is restricted due to the confidential nature of the underlying data, the Gridded EIF offers a broader research community the opportunity to glean insights from the data while preserving confidentiality. We describe the data and privacy protection methods, and offer guidance on appropriate usage, presenting practical applications.
 
 ### [The Census Historical Environmental Impacts Frame](/files/historical_eif.pdf)
 With Jennifer Withrow, Kendall Houghton, Surya Menon, Mary Munro, Suvy Qin, and John Voorheis (October 2024)
