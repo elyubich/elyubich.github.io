@@ -23,7 +23,10 @@ This paper provides the first estimates of within-industry heterogeneity in ener
 ### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
 with Jonathan Colmer, Eleanor Krause, and John Voorheis.
 
-The outside options available to workers critically determine the transitional costs of labor demand shocks. Using comprehensive administrative data, we examine the worker-level effects of the decline of coal -- a regionally concentrated labor demand shock that reduced employment by more than 50% between 2011 and 2021. We show that coal workers experienced very large, persistent earnings losses compared to similar workers less connected to coal. In contrast to worker-level analyses of labor demand shocks in more spatially diffuse industries, we show that non-employment is an important margin through which adjustment operates. Workers also earn substantially lower earnings when employed. Moving between industries or regions does little to mitigate losses. Instead, we observe significant increases in SSDI receipt. Our findings suggest that transitional costs are higher in regionally concentrated industries when skills do not easily transfer across sectors.
+Workers’ outside options play a central role in determining the transitional costs of labor demand shocks. Using comprehensive administrative data, we examine the worker-level effects of the decline of coal -- a regionally concentrated labor demand
+shock that reduced coal sector employment by more than 50 percent between 2011 and 2021. We show that coal workers experienced large and persistent earnings losses compared to similar workers with less or no connection to coal. Unlike worker-level
+analyses of labor demand shocks in more spatially diffuse industries, we find that non-employment is an important margin of adjustment. When employed, coal workers earn substantially lower wages than prior to coal’s decline. Sectoral or regional
+mobility does little to mitigate these losses, while SSDI receipt increases substantially. Our findings suggest that transitional costs are higher in geographically concentrated industries when skills do not easily transfer across sectors.
 
 ### [The Census Environmental Impacts Frame](/files/EIF.pdf)
 with John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scalera, and Jennifer Withrow
