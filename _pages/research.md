@@ -4,6 +4,30 @@ permalink: /research/
 author_profile: false
 ---
 
+
+## Working Papers 
+
+### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
+with Jonathan Colmer, Eleanor Krause, and John Voorheis (September 2025)
+
+Workers’ outside options play a central role in determining the transitional costs of labor demand shocks. Using comprehensive administrative data, we examine the worker-level effects of the decline of coal -- a regionally concentrated labor demand
+shock that reduced coal sector employment by more than 50 percent between 2011 and 2021. We show that coal workers experienced large and persistent earnings losses compared to similar workers with less or no connection to coal. Unlike worker-level
+analyses of labor demand shocks in more spatially diffuse industries, we find that non-employment is an important margin of adjustment. When employed, coal workers earn substantially lower wages than prior to coal’s decline. Sectoral or regional
+mobility does little to mitigate these losses, while SSDI receipt increases substantially. Our findings suggest that transitional costs are higher in geographically concentrated industries when skills do not easily transfer across sectors.
+
+
+### The Mirage of Industrial Energy Efficiency
+with Will Rafey, Joe Shapiro, and Reed Walker.
+
+## Selected Work in Progress
+
+### Place-Based Investment and Neighborhood Choice
+With Max Snyder
+
+### Labor Lock-in in the Fossil Fuel Industry
+With Patrick Baylis and Katherine Wagner
+
+
 ## Publications
 
 ### [The Role of People vs. Places in Individual Carbon Emissions](/files/Lyubich_UCBerkeley_JMP.pdf) 
@@ -18,15 +42,7 @@ With Joe Shapiro and Reed Walker. *AEA Papers and Proceedings* (March 2018)
 
 This paper provides the first estimates of within-industry heterogeneity in energy and CO<sub>2</sub> productivity for the entire U.S. manufacturing sector. We measure energy and CO<sub>2</sub> productivity as output per dollar energy input or per ton CO<sub>2</sub> emitted. Three findings emerge. First, within narrowly defined industries, heterogeneity in energy and CO<sub>2</sub> productivity across plants is enormous. Second, heterogeneity in energy and CO<sub>2</sub> productivity exceeds heterogeneity in most other productivity measures, like labor or total factor productivity. Third, heterogeneity in energy and CO<sub>2</sub> productivity has important implications for environmental policies targeting industries rather than plants, including technology standards and carbon border adjustments.
 
-## Working Papers
-
-### [Transitional Costs and the Decline of Coal: Worker-Level Evidence](/files/coal_transition.pdf)
-with Jonathan Colmer, Eleanor Krause, and John Voorheis (September 2025)
-
-Workers’ outside options play a central role in determining the transitional costs of labor demand shocks. Using comprehensive administrative data, we examine the worker-level effects of the decline of coal -- a regionally concentrated labor demand
-shock that reduced coal sector employment by more than 50 percent between 2011 and 2021. We show that coal workers experienced large and persistent earnings losses compared to similar workers with less or no connection to coal. Unlike worker-level
-analyses of labor demand shocks in more spatially diffuse industries, we find that non-employment is an important margin of adjustment. When employed, coal workers earn substantially lower wages than prior to coal’s decline. Sectoral or regional
-mobility does little to mitigate these losses, while SSDI receipt increases substantially. Our findings suggest that transitional costs are higher in geographically concentrated industries when skills do not easily transfer across sectors.
+## Technical Papers 
 
 ### [The Census Environmental Impacts Frame](/files/EIF.pdf)
 with John Voorheis, Jonathan Colmer, Kendall Houghton, Mary Munro, Cameron Scalera, and Jennifer Withrow (July 2025; Revise and Resubmit at *Review of Environmental Economics and Policy*)
@@ -45,16 +61,7 @@ With Jennifer Withrow, Kendall Houghton, Surya Menon, Mary Munro, Suvy Qin, and 
 The Census Bureau’s Environmental Impacts Frame (EIF) is a microdata infrastructure that combines individual-level information on residence, demographics, and economic characteristics with environmental amenities and hazards from 1999 through the present day. To better understand the long-run consequences and intergenerational effects of exposure to a changing environment, we expand the EIF by extending it backward to 1940. The Historical Environmental Impacts Frame (HEIF) combines the Census Bureau’s historical administrative data, publicly available 1940 address information from the 1940 Decennial Census, and historical environmental data. This paper discusses the creation of the HEIF as well as the unique challenges that arise with using the Census Bureau’s historical administrative data. 
 
 
-## Selected Work in Progress
 
-### Why is Industrial Energy Efficiency Improving?
-with Will Rafey, Joe Shapiro, and Reed Walker.
-
-### Place-Based Investment and Neighborhood Choice
-With Max Snyder
-
-### Labor Lock-in in the Fossil Fuel Industry
-With Patrick Paylis and Katherine Wagner
 
 ## Resting Papers 
 
