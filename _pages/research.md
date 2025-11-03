@@ -51,8 +51,6 @@ author_profile: false
     </div>
 </div>
 
-### Labor Lock-in in the Fossil Fuel Industry
-With Patrick Baylis and Katherine Wagner
 
 <div x-data="{ open: false }">
     <h3 id="labor-locking" x-on:click="open = !open"><a href="#labor-lockin">Labor Lock-in in the Fossil Fuel Industry</a></h3>
