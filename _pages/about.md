@@ -11,10 +11,10 @@ redirect_from:
 <div class="flex">
 <img class="photo" src="{{site.url}}/images/bio-photo.png" /> 
 <div class="text">
-I am a research economist at the Center for Economic Studies at the US Census Bureau. I received my PhD from the Department of Economics at the University of California, Berkeley in May 2022. During my PhD, I was a Graduate Student Researcher at the Energy Institute at Haas and a California Policy Lab Graduate Fellow. 
+I am a research economist at the Center for Economic Studies at the US Census Bureau. I received my PhD from the Department of Economics at the University of California, Berkeley in May 2022. During my PhD, I was a Graduate Student Researcher at the Energy Institute at Haas, a Berkeley Opportunity Lab Student Fellow, and a California Policy Lab Graduate Fellow. 
 <br/>
 <br/>
-<i>Email</i>: eva.lyubich@census.gov
+<i>Email</i>: elyubich@berkeley.edu
 </div>
 </div>
 <style>
