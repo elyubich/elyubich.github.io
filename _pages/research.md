@@ -9,7 +9,7 @@ author_profile: false
 
 <div x-data="{ open: false }">
     <h3 id="transitional-costs" x-on:click="open = !open"><a href="#transitional-costs">Transitional Costs and the Decline of Coal: Worker-Level Evidence</a></h3>
-    <p>with Jonathan Colmer, Eleanor Krause, and John Voorheis (September 2025)</p>
+    <p>with Jonathan Colmer, Eleanor Krause, and John Voorheis </p>
 
 
     <div x-show="open">
@@ -53,6 +53,18 @@ author_profile: false
 
 ### Labor Lock-in in the Fossil Fuel Industry
 With Patrick Baylis and Katherine Wagner
+
+<div x-data="{ open: false }">
+    <h3 id="labor-locking" x-on:click="open = !open"><a href="#labor-lockin">Labor Lock-in in the Fossil Fuel Industry</a></h3>
+    <p>with Patrick Baylis and Katherine Wagner</p>
+
+
+    <div x-show="open">
+        <p>
+        Do lucrative early-life job opportunities lock in better or worse long-run outcomes? We study this question in the context of the fossil fuel industry, where repeated local booms and busts create sharp variation in labor demand. Using administrative tax records and demographic data from the U.S. Census Bureau, we leverage a shift-share instrument to examine whether exposure to a local boom at the start of workers' careers leads to changes in eventual educational attainment, location choices, and lifetime earnings. We also aim to identify how these impacts vary by population and study the mechanisms, such as skills, place attachment, and industry-specific learning, that propagate them.
+        </p>
+    </div>
+</div>
 
 ## Publications
 
