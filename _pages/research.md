@@ -35,13 +35,21 @@ author_profile: false
     </div>
 </div>
 
-### The Mirage of Industrial Energy Efficiency
-with Will Rafey, Joe Shapiro, and Reed Walker.
 
 ## Selected Work in Progress
 
-### Place-Based Investment and Neighborhood Choice
-With Max Snyder
+
+<div x-data="{ open: false }">
+    <h3 id="cci" x-on:click="open = !open"><a href="#cci">Place-Based Investment and Neighborhood Choice</a></h3>
+    <p>with Max Snyder</p>
+
+
+    <div x-show="open">
+        <p>
+        Does investment in distressed regions encourage people to live in areas which limit economic opportunity? We study a four billion dollar grant program that funds affordable, low-emissions housing in regions facing economic and environmental disadvantages. Our empirical approach compares census blocks which are awarded grants to similar blocks which apply and are denied funding. We find investment expands the supply of housing in targeted regions by 41 percent, lowering local rents while not impacting home values. Incumbents in awarded areas become less likely to migrate over time, suggesting these areas become more desirable for local residents. This decline is driven by fewer short-distance moves to similarly-distressed regions rather than reduced long-distance migration to higher-opportunity areas. We conclude by evaluating the extent to which investment in high-density areas reduces migration lower-density regions of the economy. 
+        </p>
+    </div>
+</div>
 
 ### Labor Lock-in in the Fossil Fuel Industry
 With Patrick Baylis and Katherine Wagner
