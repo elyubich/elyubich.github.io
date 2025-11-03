@@ -3,15 +3,15 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <div class="flex">
-<img class="photo" src="{{site.url}}/images/bio-photo.png" /> 
+<img style="max-width: 30%;" class="photo" src="{{site.url}}/images/bio-photo.png" />
 <div class="text">
-I am a research economist at the Center for Economic Studies at the US Census Bureau. I received my PhD from the Department of Economics at the University of California, Berkeley in May 2022. During my PhD, I was a Graduate Student Researcher at the Energy Institute at Haas, a Berkeley Opportunity Lab Student Fellow, and a California Policy Lab Graduate Fellow. 
+I am a research economist at the Center for Economic Studies at the US Census Bureau. I received my PhD from the Department of Economics at the University of California, Berkeley in May 2022. During my PhD, I was a Graduate Student Researcher at the Energy Institute at Haas, a Berkeley Opportunity Lab Student Fellow, and a California Policy Lab Graduate Fellow.
 <br/>
 <br/>
 <b>Email</b>: elyubich@berkeley.edu
