@@ -23,6 +23,18 @@ author_profile: false
     </div>
 </div>
 
+<div x-data="{ open: false }">
+    <h3 id="energy-efficiency" x-on:click="open = !open"><a href="#energy-efficiency">The Mirage of Industrial Energy Efficiency</a></h3>
+    <p>with Will Rafey, Joe Shapiro, and Reed Walker</p>
+
+
+    <div x-show="open">
+        <p>
+        Energy inputs per unit of output have steadily trended downward, a pattern often attributed to successful energy efficiency policy. We assess whether this trend reflects targeted improvements in energy use or broader technical progress. To do so, we develop a model of factor-biased technical change and apply it to a half century of establishment-level data from the U.S. Census Bureau. We find that innovations in energy-augmenting productivity account for only about one-third of establishment-level improvements in energy efficiency.  Decompositions indicate that aggregate improvements in energy-augmenting productivity largely reflect reallocation of market share across incumbents.
+        </p>
+    </div>
+</div>
+
 ### The Mirage of Industrial Energy Efficiency
 with Will Rafey, Joe Shapiro, and Reed Walker.
 
